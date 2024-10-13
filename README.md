@@ -19,6 +19,12 @@ De esta manera se busca obtener algunos insights a cerca de los accidentes de tr
 
 ### 3. Resultats: Presentació dels resultats obtinguts.
 
+### EDA: Análisis Exploratorio de Datos
+Se puede reconocer las siguientes relaciones...
+
+### Modelos de Predicción
+klk
+
 
 ### 4. Conclusions: Principals inferències derivades dels resultats aconseguits.
 
