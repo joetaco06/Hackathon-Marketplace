@@ -39,7 +39,12 @@ De esta manera se busca obtener algunos insights a cerca de los accidentes de tr
 
 ### 4. Conclusions: Principals inferències derivades dels resultats aconseguits.
 
-  Que medidas políticas se podrían implementar una vez identificando las oportunidades de mejora.
+A partir del análisis mostrado se puede inferir que hay políticas que se pueden implementar a fin de reducir la cantidad de accidentes. 
+
+Ya que estos han sucedido en mayor número durante la tarde y los viernes, se podría aumentar el control por parte de las autoridades en aquellos días para disuadir a los conductores imprudentes que por falta de poner atención al volante cometen accidentes. Todo ello, enfatizándose en el distrito de Eixample, que es donde suceden en mayor cantidad.
+
+
+
 
 
 
