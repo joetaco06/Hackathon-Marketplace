@@ -4,7 +4,7 @@
 
 En el presente estudio se analizan los accidentes según sus causas, gestionados por la Guardia Urbana en la Ciudad de Barcelona.
 
-Se ha seleccionado únicamente los datasets para los años 2016, 2017, 2018, 2019 y 2020; debido a su homegenidad entre sí. Además, una vez realizado el análisis del mejor modelo para el pronóstico podríamos someter su nível de predicción contrastándolo con datos reales de los datasets para los años subsiguientes (2021, 2022,2023). Aunque esto último, no forma parte del presente estudio.
+Se ha seleccionado únicamente los datasets para los años 2016, 2017, 2018, 2019 y 2020; debido a su homegeneidad entre sí. Además, una vez realizado el análisis del mejor modelo para el pronóstico podríamos someter su nível de predicción contrastándolo con datos reales de los datasets para los años subsiguientes (2021, 2022,2023). Aunque esto último, no forma parte del presente estudio.
 
 Se utilizan técnicas de Análisis Exploratorio de Datos y Pipeline para el modelaje de los datos. 
 
@@ -27,9 +27,9 @@ De esta manera se busca obtener algunos insights a cerca de los accidentes de tr
 ### 3. Resultats: Presentació dels resultats obtinguts.
 
 ### EDA: Análisis Exploratorio de Datos
-   Mediante esta serie de análisis se ha obtenido las estadísticas más importantes para todos los campos, comenzando que en total para el conjunto de datasets se tienen 51056 filas y 20 columnas. 15         son los valores nulos, como ya se mencionó. 
+   Mediante esta serie de análisis se ha obtenido las estadísticas más importantes para todos los campos, comenzando que en total para el conjunto de datasets se tienen 51056 filas y 20 columnas. 15 son los valores nulos, como ya se mencionó. 
    
-   Visualmente hablando se han obtenido insights importantes como que la mayor cantidad de accidentes tuvieron lugar en el distrito de Eixample. Por otro lado la falta de atención en la conducción se      corona  el principal motivo de los accidentes. Así mismo, no hubo gran variación en la cantidad de accidentes a excepción del año 2020, año de pandemia, donde cayeron considerablemente.
+   Visualmente hablando se han obtenido insights importantes como que la mayor cantidad de accidentes tuvieron lugar en el distrito de Eixample. Por otro lado la falta de atención en la conducción se corona como el principal motivo de los accidentes. Así mismo, no hubo gran variación en la cantidad de accidentes a excepción del año 2020, año de pandemia, donde cayeron considerablemente.
   
 ### Modelos de Predicción
 
